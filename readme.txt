@@ -1,7 +1,12 @@
-#author: Vophan Lee
+﻿#author: Vophan Lee
 #date:18/7/11
 #
 #
+#更新：
+#		成绩查询功能
+#		输入学号和密码就好		
+#		现在参数设计仍为2017-2018学年第一学期
+#		下学期需要手动修改参数，具体为post_score中的url,和data
 #环境：python3.6
 #依赖库：urllib,re,bs4,sys,http,imgcodeidentify,PIL,aip
 #调用sxufreesite类的main方法,即可
